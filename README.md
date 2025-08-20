@@ -26,21 +26,6 @@ The system was implemented with:
 
 ---
 
-## Repository Structure
-
-
-Taxi-Management-System/
-├─ docs/
-│ └─ Taxi-Management-System.pdf # Project documentation & flowcharts
-├─ src/
-│ ├─ server 2.py # TCP server code
-│ ├─ clint 2.py # TCP client code
-│ ├─ TheServerOutput # Example server output
-│ └─ TheClintOutput # Example client output
-
-
----
-
 ## Tech Stack
 - **Language:** Python  
 - **Libraries:** `socket`, `threading`, `multiprocessing`, `requests`, `googlemaps`  

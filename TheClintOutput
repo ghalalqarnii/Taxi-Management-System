@@ -1,0 +1,98 @@
+Last login: Tue Feb  6 23:05:28 on ttys003
+(base) ghalaalqarni@Ghalas-MacBook-Pro ~ % cd /Users/ghalaalqarni/Documents/Distributed\ programming\ project
+(base) ghalaalqarni@Ghalas-MacBook-Pro Distributed programming project % python /Users/ghalaalqarni/Documents/Distributed\ programming\ project/clint\ 2.py 
+~~ Welcome to Taxi Management System ~~
+Select 1 if you want to request a ride
+Select 2 if you want to rate a driver
+Select 3 if you're a Manager
+Enter your choice: 1
+Requesting a ride...
+Please enter your name: 
+Your name: ghala
+Your current location: 21.4237184,39.7606912
+Invalid response from the server.
+Nearby locations: 1 - Dar Raies HotelNearby locations: 2 - Rawhaa ResortNearby locations: 3 - Prince Abdul Majeed Secondary SchoolNearby locations: 4 - skyinnChoose a destination from the nearby locations (e.g., 1, 2, 3, 4): 
+Choose a destination (e.g., 1, 2, 3, 4): 1
+Your driver is John. Car: Toyota Prius, License Plate: ABC123
+Invalid response from the server.
+Estimated distance to your destination: 10.0 milesDo you accept the ride? (yes/no): 
+Do you accept the ride? (yes/no): yes
+Simulating ride...
+Invalid response from the server.
+Your ride is complete. Here is your bill: $10.00Do you want to request another ride? (yes/no): 
+Do you want to request another ride? (yes/no): yes
+Your current location: 21.4237184,39.7606912
+Invalid response from the server.
+Nearby locations: 1 - Dar Raies HotelNearby locations: 2 - Rawhaa ResortNearby locations: 3 - Prince Abdul Majeed Secondary SchoolNearby locations: 4 - skyinnChoose a destination from the nearby locations (e.g., 1, 2, 3, 4): 
+Choose a destination (e.g., 1, 2, 3, 4): 3
+Your driver is John. Car: Toyota Prius, License Plate: ABC123
+Invalid response from the server.
+Estimated distance to your destination: 10.0 milesDo you accept the ride? (yes/no): 
+Do you accept the ride? (yes/no): no
+Thank you. Goodbye!
+Do you want to continue? (yes/no): yes
+Select 1 if you want to request a ride
+Select 2 if you want to rate a driver
+Select 3 if you're a Manager
+Enter your choice: 2
+Please rate the driver on a scale from 1 to 5 (1 = Poor, 5 = Excellent): 5
+Thank you for rating the driver 5 out of 5!
+Do you want to continue? (yes/no): yes
+Select 1 if you want to request a ride
+Select 2 if you want to rate a driver
+Select 3 if you're a Manager
+Enter your choice: 2
+Please rate the driver on a scale from 1 to 5 (1 = Poor, 5 = Excellent): 1
+We're sorry for your bad experience.
+Please wait a moment until a manager gets connected with you.
+We're sorry to hear that your experience was less than satisfactory.
+Please share additional details about your experience and any suggestions for improvement:
+Enter feed back The driver is driving fast
+Thank you for providing feedback. We have received your suggestions and will work on improving our service.
+Do you want to continue? (yes/no): yes
+Select 1 if you want to request a ride
+Select 2 if you want to rate a driver
+Select 3 if you're a Manager
+Enter your choice: 3
+Enter the admin's password: taxsm
+Choose the operation you would like to perform
+1 - Profit Management
+2 - Exit
+Enter your choice: 1
+Profit Management operation selected.
+Enter the number of rides this year
+1000
+Each boss's profit: 1750$
+Each Manger's profit: 11$
+Each driver's profit:1$
+Each car's maintance profit: 1$
+
+Normal time: 3.0994415283203125e-05
+Multiprocessing time 0.0861821174621582
+Do you want to continue? (yes/no): yes
+Select 1 if you want to request a ride
+Select 2 if you want to rate a driver
+Select 3 if you're a Manager
+Enter your choice: 3
+Enter the admin's password: taxsm
+Choose the operation you would like to perform
+1 - Profit Management
+2 - Exit
+Enter your choice: 2
+Exiting the program. Goodbye!
+Do you want to continue? (yes/no): yes
+Select 1 if you want to request a ride
+Select 2 if you want to rate a driver
+Select 3 if you're a Manager
+Enter your choice: 3 
+Enter the admin's password: 1
+Incorrect password. Access denied.
+Do you want to continue? (yes/no): yes
+Select 1 if you want to request a ride
+Select 2 if you want to rate a driver
+Select 3 if you're a Manager
+Enter your choice: 4
+Invalid input. Please enter 1, 2, or 3.
+Do you want to continue? (yes/no): no
+Exiting the program. Goodbye!
+(base) ghalaalqarni@Ghalas-MacBook-Pro Distributed programming project % 

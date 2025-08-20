@@ -1,0 +1,22 @@
+Last login: Tue Feb  6 23:07:19 on ttys002
+(base) ghalaalqarni@Ghalas-MacBook-Pro ~ % cd /Users/ghalaalqarni/Documents/Distributed\ programming\ project
+(base) ghalaalqarni@Ghalas-MacBook-Pro Distributed programming project % python /Users/ghalaalqarni/Documents/Distributed\ programming\ project/server\ 2.py 
+Server listening on 127.0.0.1:5566
+Accepted connection from ('127.0.0.1', 53386)
+Handling client...
+Received name: ghala
+Received ride request from ghala to Dar Raies Hotel
+Received ride request from ghala to Prince Abdul Majeed Secondary School
+Connection closed.
+Accepted connection from ('127.0.0.1', 53391)
+Handling client...
+Received feedback: The driver is driving fast
+Connection closed.
+Connection closed.
+
+
+
+
+
+
+
